@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">doanLTDD</string>
+    <string name="welcome_back">Chào mừng bạn đã quay trở lại</string>
+    <string name="login_to_continue">Tiếp tục đăng nhập</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="create_new_account">Tạo tài khoản mới</string>
+    <string name="add_image">Thêm ảnh</string>
+    <string name="name">Tên</string>
+    <string name="confirm_password">Nhập lại mật khẩu</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="select_user">Mọi người</string>
+    <string name="online">Đang hoạt động</string>
+</resources>
